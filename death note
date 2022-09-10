@@ -1,0 +1,7 @@
+local ohString1 = "DeathNote"
+
+game:GetService("ReplicatedStorage").ClickBuy:FireServer(ohString1)
+
+local ohString1 = "DeathNote"
+
+game:GetService("ReplicatedStorage").ClickEquip:FireServer(ohString1)
